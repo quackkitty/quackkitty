@@ -1,4 +1,9 @@
-## Hi there 👋
+<img width="374" height="36" alt="98" src="https://github.com/user-attachments/assets/f1697834-0f61-42c2-b6f9-dc6a368f5815" />
+
+helloo im catty!
+
+dni: basic dni, boundary breakers, and TCC
+
 
 <!--
 **quackkitty/quackkitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
