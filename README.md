@@ -1,4 +1,4 @@
- <p align="center"> <img width="300" height="450" alt="IMG_4715" src="https://github.com/user-attachments/assets/dcaf125e-d1a4-482f-a513-64c28236a3b2" /> </p>  
+ <p align="center"> <img width="290" height="440" alt="IMG_4715" src="https://github.com/user-attachments/assets/dcaf125e-d1a4-482f-a513-64c28236a3b2" /> </p>  
  
  <p align="center"> <img width="575" height="73" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f37356466323166386464663933643336383837346430353263643864636435382f313166366665346364356135363931302d62322f73363430783936302f333633306265363065303239313430393439306561383931303739653832353739…" src="https://github.com/user-attachments/assets/6fe4315e-a98a-4a80-8898-bc2500fb0351" /> </p>  
  
