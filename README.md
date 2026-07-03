@@ -8,8 +8,6 @@
 <img width="99" height="57" alt="carseatheadrest" src="https://github.com/user-attachments/assets/89142bf3-a6e9-49c3-a7da-242640c5aa22" />
 
 
-<p align="center">remember to use an ad blocker when viewing my rentry! i will be switching to cardd soon.</p>
-
 <!--
 **quackkitty/quackkitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
