@@ -4,10 +4,10 @@
  
 <p align="center"> <img width="475" height="23" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f37356466323166386464663933643336383837346430353263643864636435382f313166366665346364356135363931302d62322f73363430783936302f333633306265363065303239313430393439306561383931303739653832353739…" src="https://github.com/user-attachments/assets/673d1958-730e-4518-970f-f2447ca1e0b0" />
 
-<p align="center">  hii my name is catty i prefer only she/her
+<p align="center">  hii my name is catty i prefer only she/her ❤︎⁠ 
 
 <p align="center">   i love psychologic horror, storywriting, and minecraft
- <p align="center">  dni is basic dni, wss, (cc)dream fans, and tcc
+ <p align="center">  dni ; basic dni, wss, (cc)dream fans, and tcc
 
 
 
